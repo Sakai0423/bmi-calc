@@ -4,3 +4,4 @@ Osaka
 Fukuoka
 Miyagi
 Okinawa
+Hiroshima
